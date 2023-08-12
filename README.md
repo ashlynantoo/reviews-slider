@@ -1,5 +1,3 @@
-# react-projects-7-slider
+## review-slider
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+A react application that shows reviews as a slide show.
